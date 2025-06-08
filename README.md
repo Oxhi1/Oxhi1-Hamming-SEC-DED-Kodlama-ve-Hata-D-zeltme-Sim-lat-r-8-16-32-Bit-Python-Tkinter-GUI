@@ -2,6 +2,8 @@
 
 Bu proje, **Bursa Teknik Üniversitesi - Bilgisayar Mimarisi** dersi kapsamında geliştirilmiş bir Hamming SEC-DED (Single Error Correcting, Double Error Detecting) kodlama simülatörüdür. Program, kullanıcıdan 8, 16 veya 32 bitlik ikili verileri alır, Hamming kodlamasını uygular, yapay hatalar oluşturur ve bu hataları sendrom analizi ile tespit edip tekli hataları düzeltir.
 
+## Programın nasıl çalıştığını görmek isterseniz ---->>>  https://youtu.be/TDSSuh7kr90
+
 ## 🎯 Amaç
 
 - Bellekte veri güvenliğini sağlamak için Hamming SEC-DED algoritmasını simüle etmek
